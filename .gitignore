@@ -1,1 +1,3 @@
-*.r
+# *.r
+r_data/
+\.ipynb_checkpoints/
