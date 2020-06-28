@@ -1,4 +1,4 @@
 # *.r
-r_data/
+csv_data/
 \.ipynb_checkpoints/
 *.swp
